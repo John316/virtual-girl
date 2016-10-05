@@ -1,0 +1,9 @@
+c:\users\ivan.oleynik\documents\visual studio 2010\Projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+c:\users\ivan.oleynik\documents\visual studio 2010\Projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+c:\users\ivan.oleynik\documents\visual studio 2010\Projects\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.exe
+c:\users\ivan.oleynik\documents\visual studio 2010\Projects\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.pdb
+c:\users\ivan.oleynik\documents\visual studio 2010\Projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.manifest
+c:\users\ivan.oleynik\documents\visual studio 2010\Projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.application
+c:\users\ivan.oleynik\documents\visual studio 2010\Projects\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.exe.manifest
+c:\users\ivan.oleynik\documents\visual studio 2010\Projects\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.application
+C:\Users\ivan.oleynik\documents\visual studio 2010\Projects\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
